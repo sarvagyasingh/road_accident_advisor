@@ -2,3 +2,4 @@ gemma-3-finetune.Q8_0.gguf
 .DS_Store
 .idea/
 Modelfile
+dataset.csv
